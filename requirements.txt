@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+ggplot
+plotly
+autopep8
+pylint
+rope
