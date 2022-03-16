@@ -5,6 +5,7 @@ matplotlib
 seaborn
 ggplot
 plotly
+kaggle
 autopep8
 pylint
 rope
