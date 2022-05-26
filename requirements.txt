@@ -9,3 +9,5 @@ kaggle
 autopep8
 pylint
 rope
+wheel
+sklearn
